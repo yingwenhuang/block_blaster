@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/menu.unity
+    guid: 5c0f994a9a9c9461c84a5d517b650879
+  - enabled: 1
+    path: Assets/Scenes/level1.unity
+    guid: f9d1e2509de5e477d9d9bd154c2d9489
+  - enabled: 1
+    path: Assets/Scenes/level2.unity
+    guid: c0d3485e82f8a4c1a824ac4cb6802eae
+  - enabled: 1
+    path: Assets/Scenes/level3.unity
+    guid: 6b0e0a1a94ae3465ea2837855c931ce0
+  - enabled: 1
+    path: Assets/Scenes/level4.unity
+    guid: 4148b33b06c7d4483b96ebbb011029cb
+  - enabled: 1
+    path: Assets/Scenes/level5.unity
+    guid: 5a7d4a65d9d8e43609623c66aa81097f
+  - enabled: 1
+    path: Assets/Scenes/level6.unity
+    guid: 7aa4de71dcf6a4154b1a350a353b2654
+  - enabled: 1
+    path: Assets/Scenes/level7.unity
+    guid: f3c800076aa2e4de0ab41be8f29f3e4e
+  - enabled: 1
+    path: Assets/Scenes/level8.unity
+    guid: c44acaa7e582d4ca2a3b85ecd314235b
+  - enabled: 1
+    path: Assets/Scenes/level9.unity
+    guid: e0b5c581731ac42f2969cd46532084d0
+  - enabled: 1
+    path: Assets/Scenes/level10.unity
+    guid: 41072e2f161dc4a4ea7cdbfbec1bfcbc
+  - enabled: 1
+    path: Assets/Scenes/show.unity
+    guid: a8df5b18cb7484057a5ee1c4771c5485
+  - enabled: 1
+    path: Assets/Scenes/score.unity
+    guid: d909e9d7cde114955b358e82b42ee348
+  - enabled: 1
+    path: Assets/Scenes/loading.unity
+    guid: d4bea791606254eb185c8c89f4ee4fc0
+  - enabled: 1
+    path: Assets/Scenes/tutorial1.unity
+    guid: b17f97ce44c10401b82743bd2bc3a846
+  - enabled: 1
+    path: Assets/Scenes/tutorial2.unity
+    guid: 7d9907c2c3b284089972a57b41921afd
+  - enabled: 1
+    path: Assets/Scenes/tutorial3.unity
+    guid: e15967020da7342738144f86babf0325
+  - enabled: 1
+    path: Assets/Scenes/tutorial4.unity
+    guid: c3d10d1a3bfd342068285301d3d87812
+  - enabled: 1
+    path: Assets/Scenes/tutorial5.unity
+    guid: 1a289110ee89146b28dffb81e4869b2f
+  - enabled: 1
+    path: Assets/Scenes/tutorial6.unity
+    guid: ddc3377c093d540fcb15bc80c5adf6de
+  m_configObjects: {}
